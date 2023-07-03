@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Shopify projects
-- 🌱 I’m currently learning JavaScript
-- 💬 Ask me about Shopify Store Setups
+- 🔭 I’m currently working in the finance industry
+- 🌱 I’m currently learning about data analytics
 - 📫 How to reach me: contact@glaus.dev
